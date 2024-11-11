@@ -1,0 +1,13 @@
+question_text,answer_text,is_correct
+What is the capital of France?,Berlin,false
+What is the capital of France?,Madrid,false
+What is the capital of France?,Paris,true
+What is the capital of France?,Rome,false
+Which color is rarest for Minecraft\s sheep,Green,false
+Which color is rarest for Minecraft\s sheep,Pink,true
+Which color is rarest for Minecraft\s sheep,Black,false
+Which color is rarest for Minecraft\s sheep,Red,false
+Test_question1,Real,false
+Test_question1,NotSure,true
+Test_question1,alt+f4,false
+Test_question1,whocares,false
